@@ -7,17 +7,16 @@
    potentially mysterious cases.
 -->
 
-# {dictionary name} ({prefix:}) {"Discipline" or "Local"} Dictionary
+# Viking Lander Mission Dictionary
 <!-- EXAMPLES
    Spectral (sp:) Discipline Dictionary
    DART Mission (dart:) Local Dictionary
 -->
 
-The {dictionary name} dictionary provides classes and attributes for
-{brief functional description}
+The Viking Lander mission dictionary contains classes and attributes specific to the Viking Lander mission and its instruments.
 
 ### Steward
-{steward name} ({steward GitHub handle}), {steward node}
+Jennifer Ward (@jennifergward) [PDS Geosciences Node](https://pds-geosciences.wustl.edu/)
 <!-- EXAMPLE
      Anne Raugh (@acraugh), Small Bodies Node (SBN)
 -->
@@ -28,7 +27,7 @@ The {dictionary name} dictionary provides classes and attributes for
 does not, edit the sentence and link accordingly. -->
 The User's Guide and detailed documentation for using this dictionary in
 label design and processing
-are located at https://pds-data-dictionaries.github.io/{repo id}.
+are located at https://pds-data-dictionaries.github.io/ldd-vikinglander (TBD).
 <!-- EXAMPLE
      are located at https://pds-data-dictionaries.github.io/ldd-template.
 -->
@@ -55,9 +54,9 @@ are located at https://pds-data-dictionaries.github.io/{repo id}.
        * Review the [Change Log] (ChangeLog.md)
        * Review the [Change Log] (src/CHANGELOG.md)
 -->     
-* Download dictionary files from the [PDS Data Dictionaries Page](https://pds.nasa.gov/datastandards/dictionaries/#{dictionary prefix})
+* Download dictionary files from [VIKINGLANDER](https://pds.nasa.gov/datastandards/dictionaries/#vikinglander)
 * On [GitHub](../../releases/latest)
-* Review the [Change log]({change log file name})
+* Review the [Change log](CHANGELOG.md)
 
 # About This Repository
 <!-- The top-level directory structure and names must not change, but if
