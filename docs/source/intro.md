@@ -1,1 +1,1 @@
-Short abstract for the namespace should go here
+The Viking Lander mission dictionary (vikinglander) contains classes and attributes specific to the Viking Lander mission and its instruments.

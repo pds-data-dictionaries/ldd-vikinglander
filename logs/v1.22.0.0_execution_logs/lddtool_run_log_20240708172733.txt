@@ -1,0 +1,60 @@
+
+>>  INFO LDDTOOL Version: 15.1.0
+>>  INFO IM Version Id: 1.22.0.0
+>>  INFO IM Namespace Id: pds
+>>  INFO IM Label Version Id: 1.0
+>>  INFO Date: Mon Jul 08 17:27:33 UTC 2024
+>>  INFO PARENT_DIR: /tmp/lddtool-15.1.0/Data/
+
+>>> INFO Init:  - Config.Properties Namespace Id Using:pds
+>>> INFO Init:  - LDD Dictionary_Type is Mission
+>>> INFO Attribute: <local_hour> - The default minimum value provided by the attribute's data type is being overridden with 0.0
+>>> INFO Attribute: <local_hour> - The default maximum value provided by the attribute's data type is being overridden with 24.0
+>>> INFO Attribute: <sol_number> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <sol_number> - The default maximum value provided by the attribute's data type is being overridden with 2238
+>>> INFO Attribute: <start_sol_number> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <start_sol_number> - The default maximum value provided by the attribute's data type is being overridden with 2238
+>>> INFO Attribute: <stop_sol_number> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <stop_sol_number> - The default maximum value provided by the attribute's data type is being overridden with 2238
+>>> INFO Attribute: <scan_start_azimuth> - The default minimum value provided by the attribute's data type is being overridden with 0.0
+>>> INFO Attribute: <scan_start_azimuth> - The default maximum value provided by the attribute's data type is being overridden with 360.0
+>>> INFO Attribute: <scan_stop_azimuth> - The default minimum value provided by the attribute's data type is being overridden with 0.0
+>>> INFO Attribute: <scan_stop_azimuth> - The default maximum value provided by the attribute's data type is being overridden with 360.0
+>>> INFO Attribute: <mirror_center_elevation> - The default minimum value provided by the attribute's data type is being overridden with -60.0
+>>> INFO Attribute: <mirror_center_elevation> - The default maximum value provided by the attribute's data type is being overridden with 40.0
+>>> INFO Attribute: <sampling_interval> - The default minimum value provided by the attribute's data type is being overridden with 0.00
+>>> INFO Attribute: <sampling_interval> - The default maximum value provided by the attribute's data type is being overridden with 0.12
+>>> INFO Attribute: <offset_number> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <offset_number> - The default maximum value provided by the attribute's data type is being overridden with 31
+>>> INFO Attribute: <gain_number> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <gain_number> - The default maximum value provided by the attribute's data type is being overridden with 5
+>>> INFO Attribute: <scan_rate> - The default minimum value provided by the attribute's data type is being overridden with 250
+>>> INFO Attribute: <scan_rate> - The default maximum value provided by the attribute's data type is being overridden with 16000
+>>> INFO Attribute: <rescan_start_sample> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <rescan_start_sample> - The default maximum value provided by the attribute's data type is being overridden with 10000
+>>> INFO Attribute: <rescan_total_samples> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <missing_scans> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> WARNING Init:  - Config.Properties Namespace Id Not Found:vikinglander
+
+ -- LDDTool Execution Summary --
+     1 warning(s)
+     0 error(s)
+     0 fatal error(s)
+
+Input:
+
+     - IM Version: 1M00
+     - PDS4 Flag: true
+     - LDD Flag: true
+     - Export JSON Flag: true
+
+     - Ingest LDD(s): /home/runner/work/ldd-vikinglander/ldd-vikinglander/src/PDS4_VIKINGLANDER_IngestLDD.xml
+
+Output:
+
+     - ./PDS4_VIKINGLANDER_1M00_1000.xsd
+     - ./PDS4_VIKINGLANDER_1M00_1000.sch
+     - ./PDS4_VIKINGLANDER_1M00_1000.xml
+     - ./export/JSON/PDS4_PDS_1M00.JSON
+
+>>  INFO Exit(0)
