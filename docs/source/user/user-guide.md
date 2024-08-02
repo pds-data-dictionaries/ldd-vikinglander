@@ -2,10 +2,6 @@ PDS4 Viking Lander Mission Dictionary User's Guide
 2024-07-08 
 Jennifer Ward
 
-> Note to authors who use this outline: The outline is a
-> suggestion only. It includes the minimum of content needed to inform the
-> dictionary user. Authors are expected to tailor the outline to their particular
-> purposes, elaborating and providing context as needed.
 
 # Introduction
    1. Purpose of this User's Guide
